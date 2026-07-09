@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://adiallo10.github.io/al-portfolio/"><img src="https://img.shields.io/badge/Portfolio-View%20Site-1f3a5f?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://adiallo10.github.io/"><img src="https://img.shields.io/badge/Website-View%20Site-1f3a5f?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
   <a href="mailto:dialloalhousseiny224@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1f3a5f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <!-- TODO: replace YOUR-HANDLE with your real LinkedIn URL, then remove this comment -->
   <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f3a5f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -36,7 +36,7 @@ where AI handles the first pass and explains the result in plain English.
 | **[Security Alert Triage CLI](https://github.com/adiallo10/security-alert-triage-cli)** | Scores security alerts, flags likely false positives, and produces an explainable, ranked triage queue. Optional Claude summaries per alert. | Python, argparse, Claude API |
 | **[Phishing Email Analyzer](https://github.com/adiallo10/phishing-email-analyzer)** | Parses raw emails, extracts IOCs, checks SPF/DKIM/DMARC, and returns a transparent risk score. CLI and a paste-in Flask web UI. | Python, Flask, Claude API |
 | **[Security Ops Mini-Dashboard](https://github.com/adiallo10/security-ops-dashboard)** | Visualizes synthetic SOC data with severity heatmaps and trend charts, plus an AI "Explain this trend" feature. | Flask, Chart.js, Claude API |
-| **[Portfolio Site](https://github.com/adiallo10/al-portfolio)** | My single-page portfolio &mdash; [live here](https://adiallo10.github.io/al-portfolio/). | HTML, CSS, JavaScript |
+| **[Personal Website](https://github.com/adiallo10/adiallo10.github.io)** | My single-page site &mdash; [live here](https://adiallo10.github.io/). | HTML, CSS, JavaScript |
 
 Every project is explainable by design: the AI never replaces the security logic, it
 summarizes it for humans. All test suites pass (47 tests across the three tools).
