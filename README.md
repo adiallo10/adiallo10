@@ -24,7 +24,7 @@ where AI handles the first pass and explains the result in plain English.
 
 - Focused on security operations, detection and response, and AI-augmented triage.
 - Comfortable across SIEM/EDR tooling, identity, and cloud security.
-- Open to Security, SOC, and IT roles, and the Claude Corps Fellowship.
+- Open to Security, SOC, and IT roles.
 - Ask me about alert triage, phishing analysis, and putting LLMs to work safely.
 
 ---
